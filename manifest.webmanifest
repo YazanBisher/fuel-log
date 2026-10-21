@@ -1,0 +1,13 @@
+{
+  "name": "Fuel Log",
+  "short_name": "Fuel Log",
+  "description": "Track calories, macros and water. Scan barcodes for nutrition facts.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f9",
+  "theme_color": "#14213d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
